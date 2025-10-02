@@ -1,3 +1,4 @@
 # branches-pr-sample
 
-fisrt change on a new branch
+first change on a new branch
+Jandir is the best!
